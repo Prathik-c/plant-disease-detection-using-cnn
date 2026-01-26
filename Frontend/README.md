@@ -1,4 +1,4 @@
-##How to Work on This Project (Simple Explanation)
+How to Work on This Project (Simple Explanation)
 
 This project uses Vite, React, TypeScript, Tailwind, and shadcn-ui.
 You can edit it in a few different ways depending on how you prefer to work.
